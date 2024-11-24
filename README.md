@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jibesh10101011&label=Profile%20views&color=0e75b6&style=flat" alt="jibesh10101011" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=jibesh10101011&theme=monokai"><img src="https://github-profile-trophy.vercel.app/?username=jibesh10101011&theme=monokai" alt="jibesh10101011" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=jibesh10101011&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=jibesh10101011&theme=dracula" alt="jibesh10101011" /></a> </p>
 
 - 📫 How to reach me **jibeshr60@gmail.com**
 
