@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jibesh10101011&show_icons=true&locale=en&layout=compact" alt="jibesh10101011" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jibesh10101011&layout=compact&theme=dracula"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibesh10101011&show_icons=true&locale=en&theme=dracula" alt="jibesh10101011" /></p>
