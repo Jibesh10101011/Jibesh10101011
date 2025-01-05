@@ -15,8 +15,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=
-angular,ts,aws,django,docker,graphql,ai,js,kafka,go,nextjs,nginx,nodejs,py,pytorch,tensorflow,react,redux,bash,c,cpp,dart,dynamodb,flask,flutter,git,grafana,kubernetes,linux,opencv,redis,mysql,postgres,mongodb,prisma,py,RabbitMQ,rust,sqlite,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,aws,django,docker,graphql,ai,js,kafka,go,nextjs,nginx,nodejs,py,pytorch,tensorflow,react,redux,bash,c,cpp,dart,dynamodb,flask,flutter,git,grafana,kubernetes,linux,opencv,redis,mysql,postgres,mongodb,prisma,py,RabbitMQ,rust,sqlite,tailwind,bootstrap)](https://skillicons.dev)
+
 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
