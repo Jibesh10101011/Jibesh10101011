@@ -22,7 +22,7 @@
 <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Jibesh10101011&theme=highcontrast" 
     alt="GitHub Streak Stats" 
-    style="width:100%; max-width:600px; border-radius:8px;">
+    border-radius:8px;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jibesh10101011/Jibesh10101011/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jibesh10101011/Jibesh10101011/output/github-snake.svg" />
