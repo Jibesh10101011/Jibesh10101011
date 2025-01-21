@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jibesh10101011&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="jibesh10101011" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibesh10101011&show_icons=true&locale=en&theme=synthwave" alt="jibesh10101011" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jibesh10101011&theme=highcontrast" alt="Jibesh10101011" /></p>
+[Jibesh10101011](https://github-readme-streak-stats.herokuapp.com/?user=Jibesh10101011&theme=highcontrast)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jibesh10101011/Jibesh10101011/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jibesh10101011/Jibesh10101011/output/github-snake.svg" />
