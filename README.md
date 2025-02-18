@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,aws,django,docker,graphql,ai,js,kafka,go,nextjs,nginx,nodejs,py,pytorch,tensorflow,react,redux,bash,c,cpp,dart,dynamodb,flask,git,grafana,kubernetes,linux,opencv,redis,mysql,postgres,mongodb,prisma,rust,sqlite,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,aws,django,docker,graphql,ai,js,kafka,go,nextjs,nginx,nodejs,py,pytorch,tensorflow,react,redux,bash,c,cpp,dart,flask,git,grafana,kubernetes,linux,opencv,redis,mysql,postgres,mongodb,prisma,rust,sqlite,tailwind,bootstrap)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jibesh10101011&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="jibesh10101011" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibesh10101011&show_icons=true&locale=en&theme=synthwave" alt="jibesh10101011" /></p>
