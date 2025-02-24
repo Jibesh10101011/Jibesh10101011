@@ -20,9 +20,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jibesh10101011&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="jibesh10101011" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibesh10101011&show_icons=true&locale=en&theme=synthwave" alt="jibesh10101011" /></p>
 <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Jibesh10101011&theme=microsoft-dark" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Jibesh10101011&theme=highcontrast" 
     alt="GitHub Streak Stats" 
     border-radius:8px;">
+
+   
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jibesh10101011/Jibesh10101011/output/github-snake-dark.svg" />
