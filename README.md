@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jibeshr60@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me:**  
 <p align="left">
 <a href="https://linkedin.com/in/jibesh-roy-368686254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jibesh-roy-368686254" height="30" width="40" /></a>
 <a href="https://kaggle.com/jibeshroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jibeshroy" height="30" width="40" /></a>
