@@ -18,13 +18,13 @@
 [![My Skills](https://skillicons.dev/icons?i=angular,ts,aws,django,docker,graphql,ai,js,kafka,go,nextjs,nginx,nodejs,express,fastapi,py,pytorch,tensorflow,react,redux,bash,c,cpp,dart,flask,git,grafana,kubernetes,linux,opencv,redis,mysql,postgres,mongodb,prisma,rust,electron,sqlite,tailwind,bootstrap)](https://skillicons.dev)
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibesh10101011&show_icons=true&locale=en&theme=synthwave" alt="jibesh10101011" /></p>
-<img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Jibesh10101011&theme=highcontrast" 
-    alt="GitHub Streak Stats" 
-    border-radius:8px;">
-
-   
+<p align = 'left'>
+    <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=Jibesh10101011&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jibesh10101011&show_icons=true&theme=gotham&line_height=27&hide_border=true'/>
+</p>
+<p align = 'center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=Jibesh10101011&theme=gotham&hide_border=true'>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jibesh10101011/Jibesh10101011/output/github-snake-dark.svg" />
