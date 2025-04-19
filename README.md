@@ -17,7 +17,7 @@
   
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,aws,django,docker,graphql,ai,js,kafka,go,nextjs,nginx,nodejs,express,fastapi,py,pytorch,tensorflow,react,redux,bash,c,cpp,dart,flask,git,grafana,kubernetes,linux,opencv,redis,mysql,postgres,mongodb,prisma,rust,sqlite,tailwind,bootstrap" alt="Skills" /> </a>
+    <img src="https://skillicons.dev/icons?i=react,angular,ts,aws,django,docker,graphql,ai,js,kafka,go,nextjs,nginx,nodejs,express,fastapi,py,pytorch,tensorflow,redux,bash,c,cpp,dart,flask,git,grafana,kubernetes,linux,opencv,redis,mysql,postgres,mongodb,prisma,rust,sqlite,tailwind,bootstrap" alt="Skills" /> </a>
 </p>
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
