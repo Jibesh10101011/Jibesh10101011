@@ -1,8 +1,6 @@
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Jibesh</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jibesh10101011&label=Profile%20views&color=0e75b6&style=flat" alt="jibesh10101011" /> </p>
-
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=jibesh10101011&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=jibesh10101011&theme=dracula" alt="jibesh10101011" /></a> </p>
 
 - 📫 How to reach me **jibeshr60@gmail.com**
