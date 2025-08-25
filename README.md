@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Jibesh</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=jibesh10101011&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=jibesh10101011&theme=dracula" alt="jibesh10101011" /></a> </p>
+<p align="left"> <a href="https://trophygh.kolioaris.xyz/?username=Jibesh10101011&theme=dracula"><img src="https://trophygh.kolioaris.xyz/?username=Jibesh10101011&theme=dracula" alt="jibesh10101011" /></a> </p>
 
 - 📫 How to reach me **jibeshr60@gmail.com**
 
