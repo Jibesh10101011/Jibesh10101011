@@ -1,5 +1,22 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Jibesh</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h1 align="center">
+  Hi there 
+  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" width="40" />
+  , I'm <span style="color:#4CAF50;">Jibesh</span> 👨‍💻
+</h1>
+
+<h3 align="center">
+  💡 Driven by Curiosity | ⚡ Passionate about Software Engineering | 🌱 Lifelong Learner
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Go-blue?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
 
 <p align="left"> <a href="https://trophygh.kolioaris.xyz/?username=Jibesh10101011&theme=dracula"><img src="https://trophygh.kolioaris.xyz/?username=Jibesh10101011&theme=dracula" alt="jibesh10101011" /></a> </p>
 
