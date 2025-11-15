@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  💡 Driven by Curiosity | ⚡ Passionate about Software Engineering | 🌱 Lifelong Learner
+  Driven by Curiosity | Passionate about Software Engineering | Lifelong Learner
 </h3>
 
 <p align="center">
