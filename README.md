@@ -4,10 +4,6 @@
   , I'm <span style="color:#4CAF50;">Jibesh</span> 👨‍💻
 </h1>
 
-<h3 align="center">
-  Driven by Curiosity | Passionate about Software Engineering | Lifelong Learner
-</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Go-blue?style=for-the-badge&logo=go" />
   <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
