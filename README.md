@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   Hi there 
   <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" width="40" />
   , I'm <span style="color:#4CAF50;">Jibesh</span> 👨‍💻
@@ -30,11 +30,11 @@
 
 <p align='center'>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=Jibesh10101011&theme=gotham&hide_border=true'>
-</p>
+</p> -->
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jibesh10101011/Jibesh10101011/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jibesh10101011/Jibesh10101011/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Jibesh10101011/Jibesh10101011/output/github-snake.svg" />
-</picture>
+</picture> -->
