@@ -32,10 +32,6 @@
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=Jibesh10101011&theme=gotham&hide_border=true'>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jibesh10101011&bg_color=060609&color=dedede&line=4e9e4c&point=15b6cb&area=true&hide_border=true" alt="GitHub activity graph" width="80%" />
-</p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jibesh10101011/Jibesh10101011/output/github-snake-dark.svg" />
