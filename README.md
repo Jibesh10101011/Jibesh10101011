@@ -7,6 +7,8 @@
 <p align="left"> <a href="https://trophygh.kolioaris.xyz/?username=Jibesh10101011&theme=dracula"><img src="https://trophygh.kolioaris.xyz/?username=Jibesh10101011&theme=dracula" alt="jibesh10101011" /></a> </p>
 
 - 📫 How to reach me **jibeshr60@gmail.com**
+- 💬 Ask me about **System Design, Databases, and Operating Systems**
+- ⚡ Fun fact: **I don't have any hobbies outside coding**
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me:**  
 <p align="left">
